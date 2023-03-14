@@ -1,4 +1,4 @@
 import numpy as np
 
-np.random.seed(3)
-sample = sorted(list(np.random.randint(100, size = 10)))
+np.random.seed(4)
+sample = list(np.random.randint(100000, size = 10000))
